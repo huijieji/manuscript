@@ -1,0 +1,1 @@
+This project centers around the article “Looking Around: All Buildings Are Interesting.” It demonstrates the use of semantic HTML, basic CSS, and typographic hierarchy. I combined the article's content with our personal responses, creating an engaging web page through careful typesetting and design.
