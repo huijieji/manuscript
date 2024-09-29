@@ -120,3 +120,11 @@ section{
 p{
 	max-width: 80ch; 
 }
+
+li {
+	margin-left: 2em;
+	max-width: 70ch;
+	color:rgb(59, 59, 59);
+	font-family: "Edu QLD Beginner", cursive;
+	margin-bottom: 20px
+}
