@@ -3,7 +3,7 @@ h1{
 	text-transform: uppercase;
 	font-size: 180px;
 	color:rgb(33, 25, 4);
-	font: weight 200px;;
+	font: weight 200px;
 	word-spacing: 5px;
 	font-family: "Bebas Neue", sans-serif;
 	font-weight: 400;
@@ -23,7 +23,6 @@ h1{
 	}
 	
 	
-	
 	h2{
 		font-size: 70px;
 		color:rgb(165, 137, 67);
@@ -32,10 +31,11 @@ h1{
 		max-width: 60ch;
 		text-align: right;
 		margin-right: 20px;
+		line-height:150px;
 	}
 	
 	body{
-		color:rgb(118, 117, 117);
+		color:rgb(101, 101, 101);
 		font-size: 20px;
 		margin: 0;
 		text-align: center;
@@ -43,25 +43,28 @@ h1{
 	
 	pre {
 		font-size: 16px;
-		color:rgb(145, 144, 144);
+		color:rgb(101, 101, 101);
 		text-align: center;
 		margin-top: -40px;
+		margin-bottom: 30px;
 	}
 	
 	cite{
 		font-size: 20px;
 		font-style: italic;
-		color:rgb(145, 144, 144);
+		color:rgb(101, 101, 101);
 		text-align: center;
+
 	}
 	
-	.author-info {
+	.author{
 		color:rgb(59, 59, 59);
 		text-align: center;
-		margin: 50px;
-		font-size: 25px;
-		max-width: 100ch;
-		padding-left: 280px;
+		margin: 20px;
+		font-size: 20px;
+        padding-left: 550px;
+		padding-right: 450px;
+		
 	}
 	
 	footer {
@@ -70,30 +73,24 @@ h1{
 		text-align: center;
 		font-size: 1.1em;
 		font-style: italic;
-		padding:10px;
+		padding:30px;
 		margin-top:50px;
 		
 	}
 	
-	footer p{
-		padding-left:500px;
-	
+	#ending{
+		padding-left: 500px;
+		padding-right: 100px;
+		text-align: center;
 	}
 	
-	/* blockquote{
-		font-size: 1em;
-		font-style: italic;
-		text-align: right;
-	
-	
-	} */
 	
 	strong{
-		color: rgb(194, 166, 108);
+		color: rgb(125, 95, 36);
 	  }
-	
+
 	a {
-		color: rgb(194, 166, 108);
+		color: rgb(161, 134, 82);
 	  }
 	
 	section{
@@ -112,13 +109,15 @@ h1{
 	
 	.quote{
 		padding-left: 500px;
-		max-width: 80ch;
+		max-width: 100ch;
 		font-size: 1em;
 		font-style: italic;
+		margin:30px;
 	}
 	
 	p{
 		max-width: 80ch; 
+
 	}
 	
 	li {
