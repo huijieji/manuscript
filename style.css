@@ -241,13 +241,13 @@ body {
 }
 
 .author-info {
-	padding: 0 2rem;
+	padding: 0 1rem;
 	display: flex;
 	justify-content: space-between;
 	font-family: 'Test Söhne Mono', monospace;
-	font-size: 16.91px;
+	font-size: 20px;
 	color: #393F2D;
-	/* margin-bottom: 1rem; */
+	margin-bottom: 2rem;
 }
 
 .author::before,
@@ -264,7 +264,7 @@ body {
 
 .quote-section {
 	background: #6A8E22;
-	padding: 1rem 0.5rem;
+	padding: 2rem 1.5rem;
 	color: white;
 	margin-bottom: 2rem;
 	opacity: 0;
@@ -284,9 +284,9 @@ body {
 
 .quote-text {
 	font-family: 'Anton', sans-serif;
-	font-size: 20px;
-	line-height: 25px;
-	letter-spacing: 0.4px;
+	font-size: 25px;
+	line-height: 35px;
+	letter-spacing: 0.7px;
 	text-transform: capitalize;
 }
 
