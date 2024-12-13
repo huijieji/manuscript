@@ -318,11 +318,15 @@ body {
 	align-items: flex-start;
 	cursor: pointer;
 	transition: all 0.3s ease;
-	
+	position: sticky;
+	background-color: white;
+	z-index: 1;
+	top:0;
 }
 
 .nav-item:hover {
 	transform: translateX(10px);
+	
 }
 
 .nav-title {
