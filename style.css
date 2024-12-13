@@ -148,7 +148,8 @@ body {
 	}
 
 	.content-section p {
-		font-size: 36px !important;
+		font-size: 27px !important;
+		padding:20px;
 	}
 
 	.content-section {
@@ -252,14 +253,14 @@ body {
 	margin-bottom: 2rem;
 }
 
-/* .title{
+.title{
 	position: sticky;
 	background-color: white;
 	z-index: 1;
 	top: 0;
 	padding-bottom:1%;
 	padding-top:3%;
-  } */
+  }
 
 .author::before,
 .date::before {
