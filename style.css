@@ -110,19 +110,19 @@ body {
 	}
 
 	.author-info {
-		padding: 0 9rem !important;
+		/* padding: 0 9rem !important; */
 		font-size: 42px !important;
-		margin-bottom: 2rem !important;
+		margin-bottom: 5rem !important;
 	}
 
 	.quote-section {
-		padding: 6rem 3rem !important;
+		padding: 5rem 3rem !important;
 		margin-bottom: 4rem !important;
 	}
 
 	.quote-text {
-		font-size: 64px !important;
-		line-height: 80px !important;
+		font-size: 45px !important;
+		line-height: 65px !important;
 	}
 
 	.nav-section {
@@ -193,7 +193,7 @@ body {
 }
 
 .header {
-	padding: 2rem 1rem 0rem 1rem;
+	padding: 2rem 2rem 0rem 1rem;
 	opacity: 0;
 	animation: slideIn 0.8s ease forwards 0.3s;
 }
@@ -242,8 +242,8 @@ body {
 
 .author-info {
 	padding: 0 1rem;
-	display: flex;
-	justify-content: space-between;
+	/* display: flex; */
+	/* justify-content: space-between; */
 	font-family: 'Test Söhne Mono', monospace;
 	font-size: 20px;
 	color: #393F2D;
